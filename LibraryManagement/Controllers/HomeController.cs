@@ -17,7 +17,7 @@ namespace LibraryManagement.Controllers
 
         public IActionResult About()
         {
-            ViewData["Message"] = "Zibon application description page.";
+            ViewData["Message"] = "Zibon's application description page.";
 
             return View();
         }
